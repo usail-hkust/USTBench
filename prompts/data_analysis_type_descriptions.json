@@ -1,0 +1,11 @@
+{
+  "Distance": "Distance analysis focuses on evaluating spatial distances between locations, road segments, or regions. Useful for analyzing mobility patterns, travel time, and spatial proximity-based effects.",
+  "Direction": "Direction analysis focuses on relative or cardinal directional relationships (e.g., left/right, north/south) between locations for navigation or spatial reasoning.",
+  "Adjacency": "Adjacency analysis investigates topological relationships such as connectivity or adjacency in spatial graphs (e.g., n-hop neighbors).",
+  "Chronology": "Chronology analysis examines the sequential order of events to identify temporal dependencies or patterns (e.g., POI visit sequences).",
+  "Duration": "Duration analysis investigates time spans associated with events or processes (e.g., travel time, waiting time).",
+  "Trend": "Trend analysis identifies long-term patterns in time-series data to understand evolving behaviors or temporal dynamics (e.g., traffic flow trends).",
+  "Local Extrema": "Local Extrema analysis detects and interprets peaks and troughs in time-series data (e.g., rush hours, high-demand periods).",
+  "Periodicity": "Periodicity analysis identifies recurring cycles in time-series data, such as daily, weekly, or seasonal behaviors (e.g., periodic traffic variations).",
+  "Numerical Comparison": "Numerical comparison involves analyzing quantitative variables to draw comparisons (e.g., distance, duration, demand, or frequency)."
+}

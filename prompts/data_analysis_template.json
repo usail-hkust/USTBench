@@ -1,0 +1,3 @@
+{
+  "template": "## Question\n\nBased on the provided task description, data schema, domain knowledge, and provided data, perform an analysis on <analysis_type>. <analysis_description> <analysis_reason>\n\n## Note\n\nLet’s work this out in a step-by-step way to be sure that we have the right answer. Finally, summarize your analysis with JSON format, like:\n\n```JSON\n{\n  \"summary\": \"YOUR_SUMMARY\"\n}\n```"
+}

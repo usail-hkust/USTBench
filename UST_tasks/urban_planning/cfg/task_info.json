@@ -1,0 +1,7 @@
+{
+  "task_description": "You are responsible for urban land use planning in <city_name>, <country_name>. Given the current land use plan and adjacency information for urban entities (regions and intersections), your task is to allocate appropriate functions to feasible regions. Functional categories include residential, business, offices, parks, schools, hospitals, and recreational areas.\n\nYour goal is to ensure that residents in different residential regions can access essential services (business, office, school, hospital, and recreation) within 15 minutes and have more parks nearby.",
+  "data_schema": "- area: The area of the region in m^2.\n- connectivity: A list of tuples in the format (entity_1, entity_2, distance), defining undirected edges between urban entities with the specified distance in m.",
+  "domain_knowledge": "- You need to analyze the spatial connectivity of regions and strategically position the service in a feasible region that maximizes benefits for the most residential areas.\n- \n- Use your reasoning skill to solve this problem. DO NOT write any code or algorithms.",
+  "task_target": "select the optimal location for the next service to be built that maximize accessibility for most residential areas.",
+  "task_output_type": "decision"
+}

@@ -1,0 +1,3 @@
+{
+  "template": "## Question\n\nBased on the provided task description, data schema, domain knowledge, provided data, and experience, you may first perform an data analysis. Then, <task_target>\n\n## Analysis\n\n<data_analysis>\n\n## Experience\n\n<experience>\n\n## Note\n\nLet’s work this out in a step-by-step way to be sure that we have the right answer. Finally, provide your answer and summarize your analysis with JSON format, like:\n\n```JSON\n{\n  \"answer\": <answer_option_form>,\n  \"summary\": \"YOUR_SUMMARY\"\n}\n```"
+}

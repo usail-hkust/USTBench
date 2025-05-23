@@ -1,0 +1,3 @@
+{
+  "template": "## Question\n\nBased on the task description, data schema, domain knowledge, and data sample, consolidate all experiences into <memory_num> summarized experiences.\n\n## Experience\n\n<old_experience>\n<new_experience>\n\n## Note\n\nLet’s work this out step-by-step. Combine and restructure the information to create concise and meaningful summaries. Finally, provide your answer with JSON format, like:\n\n```JSON\n[\n  \"YOUR_EXPERIENCE_1\",\n  \"YOUR_EXPERIENCE_2\",\n]\n```"
+}

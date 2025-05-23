@@ -1,0 +1,13 @@
+data/
+build/
+build-docker/
+local/
+.vs/
+.vscode/
+.idea/
+.DS_Store
+__pycache__
+CMakeSettings.json
+cmake-build-*
+
+frontend/replay/*

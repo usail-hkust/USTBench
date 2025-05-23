@@ -1,0 +1,3 @@
+{
+  "template": "## Task Description\n\n<task_description>\n\n## Data Schema\n\n<data_schema>\n\n## Domain Knowledge\n\n<domain_knowledge>\n\n## Data\n\n<data_text>\n\n<step_instruction>"
+}
