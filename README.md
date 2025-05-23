@@ -1,6 +1,6 @@
 # **Urban Spatiotemporal Reasoning Benchmark**
 
-This repository provides a comprehensive framework for **urban spatiotemporal reasoning** tasks. It integrates **large language models (LLMs)** into classic urban science problems such as:
+This repository provides a comprehensive framework for **urban spatiotemporal reasoning** tasks. It integrates **large language models (LLMs)** into urban science problems.
 
 It includes **spatial-temporal reasoning QA** tasks to evaluate LLMs' ability in understanding and reasoning over spatial-temporal data, and **downstream tasks** to evaluate LLMs' ability in solving real-world urban tasks.
 
