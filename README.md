@@ -6,6 +6,14 @@ It includes **spatial-temporal reasoning QA** tasks to evaluate LLMs' ability in
 
 ---
 
+## 🎉 News
+
+**We are excited to announce that our work has been accepted to [The Fourteenth International Conference on Learning Representations (ICLR 2026)](https://iclr.cc/)!**
+
+This benchmark provides a comprehensive evaluation framework for large language models in urban spatiotemporal reasoning, bridging the gap between AI capabilities and real-world urban science applications.
+
+---
+
 ## 🔧 Installation (Python 3.10)
 
 ```bash
